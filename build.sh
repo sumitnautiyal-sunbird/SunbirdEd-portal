@@ -1,6 +1,6 @@
     
 #!/bin/bash
-set -euo pipefail
+
 
 commit_hash=$1
 org=stackrouteniit
